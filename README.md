@@ -1,3 +1,2 @@
 # my_autotest_course
-# Всем хай
-# попытка номер 2
+# Я прохожу обучение на https://stepik.org/lesson/187065/step/11?unit=161976 
